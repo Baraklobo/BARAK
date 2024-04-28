@@ -1,43 +1,4 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Resume</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        h1, h2, h3 {
-            margin: 0;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        .section h2 {
-            border-bottom: 2px solid #333;
-            padding-bottom: 5px;
-        }
-        .section p {
-            margin: 0;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <header>
-            <h1>Your Name</h1>
-            <p>Email: yourname@example.com | Phone: (123) 456-7890 | LinkedIn: linkedin.com/in/yourname</p>
-        </header>
-        <hr>
-        <section class="section">
-            <h2>Education</h2>
-            <p><strong>University Name</strong>
+    
+            
+    
